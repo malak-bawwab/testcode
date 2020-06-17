@@ -1,0 +1,12 @@
+
+public class TestClass {
+public static void main(String[] args) {
+<<<<<<< HEAD
+	System.out.print("Hello Word6");
+	System.out.print("Ii");
+=======
+	System.out.print("Hello Word1");
+	System.out.print("XXX");
+>>>>>>> develop
+}
+}
